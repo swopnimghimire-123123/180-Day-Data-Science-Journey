@@ -9,9 +9,9 @@ I’ll be solving structured problem sets, building projects, and sharing notes/
 
 ### **Phase 1: Python (Weeks 1–4)**
 - [✅] Week 1: Basics – Variables, Loops, Conditionals, Strings, Logic Building  
-- [⬜] Week 2: Functions, Lists, Tuples, Dictionaries, Sets  
-- [⬜] Week 3: File Handling, Error Handling, Modules, Comprehensions  
-- [⬜] Week 4: OOP Concepts + 50–100 Logic Building Problems  
+- [✅] Week 2: Functions, Lists, Tuples, Dictionaries, Sets  
+- [✅] Week 3: File Handling, Error Handling, Modules, Comprehensions  
+- [✅] Week 4: OOP Concepts + 50–100 Logic Building Problems  
 
 ### **Phase 2: Mathematics for Data Science (Weeks 5–8)**
 - [⬜] Week 5: Statistics Basics – Mean, Median, Mode, Variance, Std. Dev.  

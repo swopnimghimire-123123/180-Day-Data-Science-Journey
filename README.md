@@ -59,4 +59,3 @@ By the end of this journey, I’ll have:
 ---
 
 ## 📂 Repository Structure  
-I am just adding this so that I can delete it later and it adds to my GitHub contribution so that my profile looks great...
